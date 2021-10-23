@@ -1,6 +1,25 @@
 # pibolib
-welcome
+Welcome! I am a game developer currently based in Pennsylvania. I will be moving to Japan next year for university.
 
-you won't be finding much of my current work here, it's all private
+## Projects
+### Website [(link)](https://www.pibolib.xyz/)
+* [Repository](https://github.com/pibolib/pibolib.github.io)
+* 2020, In development
+* HTML, CSS
 
-follow my work [here](https://www.pibolib.xyz/)
+### GemStreak: Curse of the Time Machine [(link)](https://pibolib.itch.io/gemstreak)
+* [Repository](https://github.com/pibolib/gwj35-lost-tech)
+* 2021, Completed, made for Godot Wild Jam #35
+* GDScript
+
+### GemStreak DX
+* Repository Private
+* 2021, In development
+* GDScript
+
+Other older projects are usually public and archived on GitHub.
+
+## Information
+* I primarily work with the Godot Engine for games, and Python for other tasks. I can also use C++.
+* I have a rudimentary understanding of HTML and CSS. I will eventually get around to learning JS, but it is most certainly not a priority.
+* [Contact](https://www.pibolib.xyz/contact.html)
