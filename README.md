@@ -1,5 +1,5 @@
 # pibolib
-Welcome! I am a game developer currently based in Pennsylvania. I will be moving to Japan next year for university.
+Welcome! I am a game developer currently based in Pennsylvania. I will be moving to Japan for university in the near future, whenever I can.
 
 ## Projects
 ### Website [(link)](https://www.pibolib.xyz/)
@@ -9,7 +9,7 @@ Welcome! I am a game developer currently based in Pennsylvania. I will be moving
 
 ### GemStreak: Curse of the Time Machine [(link)](https://pibolib.itch.io/gemstreak)
 * [Repository](https://github.com/pibolib/gwj35-lost-tech)
-* 2021, Completed, made for Godot Wild Jam #35
+* 2021, Completed, made for [Godot Wild Jam #35](https://itch.io/jam/godot-wild-jam-35/rate/1120038)
 * GDScript
 
 ### GemStreak DX
