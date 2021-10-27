@@ -1,5 +1,5 @@
 # pibolib
-Welcome! I am a game developer currently based in Pennsylvania. I will be moving to Japan for university in the near future, whenever I can.
+Hello! I am a game developer currently based in Pennsylvania. I will be moving to Japan for university in the near future, whenever I can.
 
 ## Projects
 ### Website [(link)](https://www.pibolib.xyz/)
