@@ -5,7 +5,7 @@ Hello! I am a game developer currently based in Pennsylvania. I will be moving t
 ### Website [(link)](https://www.pibolib.xyz/)
 * [Repository](https://github.com/pibolib/pibolib.github.io)
 * 2020, In development
-* HTML, CSS
+* HTML, CSS, JS
 
 ### GemStreak: Curse of the Time Machine [(link)](https://pibolib.itch.io/gemstreak)
 * [Repository](https://github.com/pibolib/gwj35-lost-tech)
