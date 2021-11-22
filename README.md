@@ -1,6 +1,8 @@
 # pibolib
 Hello! I am a game developer and music producer.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T76N792)
+
 ## Projects
 ### Website [(link)](https://www.pibolib.xyz/)
 * [Repository](https://github.com/pibolib/pibolib.github.io)
