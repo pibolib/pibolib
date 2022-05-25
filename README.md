@@ -28,6 +28,4 @@ Hello! I am a game developer and music producer.
 Other older projects are usually public and archived on GitHub.
 
 ## Information
-* I primarily work with the Godot Engine for games, and Python for other tasks. I can also use C++.
-* I have a rudimentary understanding of HTML and CSS. I will eventually get around to learning JS, but it is most certainly not a priority.
 * [Contact](https://www.pibolib.xyz/contact.html)
