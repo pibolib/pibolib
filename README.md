@@ -5,9 +5,9 @@ Hello! I am a game developer and music producer.
 
 ## Projects
 
-### GemStreak DX
-* Repository Private
-* 2021, In development
+### Tsunagari Tower: Phoebe's Ascent
+* [Repository](https://github.com/pibolib/gmtk-jam-2022)
+* 2022, Completed, made for [GMTK Game Jam 2022](https://itch.io/jam/gmtk-jam-2022/rate/1615306)
 * GDScript
 
 ### Trung Sisters
