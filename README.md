@@ -10,8 +10,12 @@ class Jonathan:
     def getKnownProgrammingLanguages() -> list:
         return ["GDScript", "Python"]
         
-    def getKnownHumanLanguages() -> list:
+    def getDevelopmentTools() -> list:
+        return ["Godot Engine", "Visual Studio Code"]
+        
+    def getKnownSpokenLanguages() -> list:
         return ["English", "Japanese"]
+        
 ```
 ### Recent projects:
 
@@ -28,3 +32,6 @@ For information on full projects, please see my website. Public repositories are
 
 - [Site](https://www.pibolib.xyz/#contact)
 - Discord: pibolib#2222
+
+
+![Pibolib's GitHub stats](https://github-readme-stats.vercel.app/api?username=pibolib&show_icons=true&theme=tokyonight)
