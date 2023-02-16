@@ -1,16 +1,30 @@
-# pibolib
-Hello! I am a game developer and music producer.
+### pibolib
 
-## In-Progress Projects
+```py
+class Jonathan:
+    def __init__(self) -> None:
+        self.__name: str = "Jonathan Ouf"
+        self.__usernames: list = ["pibolib", "時空Δ"]
+        self.__hobbies: list = ["game development", "music production", "learning japanese"]
+    
+    def getKnownProgrammingLanguages() -> list:
+        return ["GDScript", "Python"]
+        
+    def getKnownHumanLanguages() -> list:
+        return ["English", "Japanese"]
+```
+### Recent projects:
 
-### [pibolib/personal-site](https://github.com/pibolib/personal-site)
-* My personal site.
+#### [pibolib/personal-site](https://github.com/pibolib/personal-site) (In progress)
 
-Projects of general worth are pinned below, most of which are completed.
+#### [pibolib/tsunagari-tower](https://github.com/pibolib/tsunagari-tower) (2022)
 
-## Information
-* [Contact](https://www.pibolib.xyz/contact.html)
+### Notes
 
-## Notes
+Public code is available for reference, not direct use.
+For information on full projects, please see my website. Public repositories are not representative of all of my work.
 
-All of my public code is available for reference. Any assets (art, music, game design elements, etc) contained within these repositories are not available for public use without prior agreement.
+### Contact
+
+- [Site](https://www.pibolib.xyz/#contact)
+- Discord: pibolib#2222
