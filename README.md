@@ -11,7 +11,7 @@ class Jonathan:
         return ["GDScript", "Python"]
         
     def getDevelopmentTools() -> list:
-        return ["Godot Engine", "Visual Studio Code"]
+        return ["Godot Engine", "Visual Studio Code", "zsh"]
         
     def getKnownSpokenLanguages() -> list:
         return ["English", "Japanese"]
@@ -21,7 +21,7 @@ class Jonathan:
 
 #### [pibolib/personal-site](https://github.com/pibolib/personal-site) (In progress)
 
-#### [pibolib/tsunagari-tower](https://github.com/pibolib/tsunagari-tower) (2022)
+#### [pibolib/tsunagari-tower](https://github.com/pibolib/tsunagari-tower) (2023)
 
 ### Notes
 
