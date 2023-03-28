@@ -21,6 +21,8 @@ class Jonathan:
 
 #### [pibolib/personal-site](https://github.com/pibolib/personal-site) (In progress)
 
+#### pibolib/tsunagari-tower-2 (In progress) (Private)
+
 #### [pibolib/tsunagari-tower](https://github.com/pibolib/tsunagari-tower) (2023)
 
 ### Notes
