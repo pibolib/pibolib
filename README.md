@@ -11,10 +11,13 @@ class Jonathan:
         return ["GDScript", "Python"]
         
     def getDevelopmentTools() -> list:
-        return ["Godot Engine", "Visual Studio Code", "zsh"]
+        return ["Godot Engine", "VS Code", "zsh"]
         
     def getKnownSpokenLanguages() -> list:
         return ["English", "Japanese"]
+        
+    def nowLearning() -> list:
+        return ["C", "TypeScript", "Java", "vim"]
         
 ```
 ### Recent projects:
