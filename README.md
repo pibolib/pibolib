@@ -17,7 +17,7 @@ class Jonathan:
         return ["English", "Japanese"]
         
     def nowLearning() -> list:
-        return ["C", "TypeScript", "Java", "vim"]
+        return ["C", "TypeScript", "Java", "nvim"]
         
 ```
 ### Recent projects:
