@@ -1,30 +1,24 @@
-### pibolib
+# Jonathan Ouf
+#### (pibolib / 時空Δ)
 
-```py
-class Jonathan:
-    def __init__(self) -> None:
-        self.__name: str = "Jonathan Ouf"
-        self.__usernames: list = ["pibolib", "時空Δ"]
-        self.__hobbies: list = ["game development", "music production", "learning japanese"]
-    
-    def getKnownProgrammingLanguages() -> list:
-        return ["GDScript", "Python"]
-        
-    def getDevelopmentTools() -> list:
-        return ["Godot Engine", "VS Code", "zsh"]
-        
-    def getKnownSpokenLanguages() -> list:
-        return ["English", "Japanese"]
-        
-    def nowLearning() -> list:
-        return ["C", "TypeScript", "Java", "nvim"]
-        
-```
-### Recent projects:
+Game developer and music producer. Currently Computer Science B.Sc. @ Drexel University.
+English/日本語
+
+### Languages, tools, etc
+
+#### Languages
+Currently using GDScript.
+Skilled in GDScript and Python.
+Learning C, Java, TypeScript, and JavaScript.
+
+#### Tools
+Currently using Godot Engine, and nvim through zsh.
+Skilled in Godot Engine and VSCode.
+Learning nvim and zsh.
+
+### Recent projects (not all encompassing)
 
 #### [pibolib/personal-site](https://github.com/pibolib/personal-site) (In progress)
-
-#### pibolib/tsunagari-tower-2 (In progress) (Private)
 
 #### [pibolib/tsunagari-tower](https://github.com/pibolib/tsunagari-tower) (2023)
 
