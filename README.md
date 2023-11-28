@@ -7,7 +7,9 @@ English/日本語
 
 #### Languages
 Skilled in GDScript, Python, and Java.
+
 Capable with HTML/CSS/JS and C.
+
 Planning to learn Rust when I find a new project to work on that could benefit from it.
 
 #### Tools
