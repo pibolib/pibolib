@@ -13,9 +13,7 @@ Capable with HTML/CSS/JS and C.
 Planning to learn Rust when I find a new project to work on that could benefit from it.
 
 #### Tools
-Currently using Godot Engine for game development.
-Skilled in Godot Engine and VSCode.
-Learning Neovim and zsh.
+Currently using Godot Engine + VSCode for game development and other projects. Capable with vim and command line tools.
 
 ### Contact
 
