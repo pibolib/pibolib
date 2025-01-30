@@ -1,8 +1,4 @@
 # Jonathan Ouf (pibolib)
 
-Game developer / Music producer. Currently Computer Science B.Sc. @ Drexel University.
+Game developer / Music producer.
 English/日本語
-
-## Contact
-
-- [Site](https://www.jonathanouf.xyz)
